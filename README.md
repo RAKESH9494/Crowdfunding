@@ -47,3 +47,10 @@ The  smart contract is a simple crowdfunding platform where contributors can fun
 #### `getContribution(address contributorAddress)`
 
 - Returns the contribution amount of a specific contributor.
+
+
+### Deployment
+
+The smart contract is deployed at sepolia test net.
+
+https://sepolia.etherscan.io/address/0xa8a3d9d279661555e9d3a8a532f2c350cb6b7d63
